@@ -1,3 +1,59 @@
+export const LANGUAGES = [
+  "English",
+  "Spanish",
+  "French",
+  "German",
+  "Mandarin",
+  "Cantonese",
+  "Japanese",
+  "Korean",
+  "Hindi",
+  "Bengali",
+  "Russian",
+  "Portuguese",
+  "Arabic",
+  "Italian",
+  "Turkish",
+  "Dutch",
+  "Polish",
+  "Ukrainian",
+  "Vietnamese",
+  "Thai",
+  "Greek",
+  "Hebrew",
+  "Urdu",
+  "Persian",
+  "Swahili",
+];
+
+export const LANGUAGE_TO_FLAG = {
+  english: "gb", // UK (alt: us for American English)
+  spanish: "es",
+  french: "fr",
+  german: "de",
+  mandarin: "cn", // China
+  cantonese: "hk", // Hong Kong
+  japanese: "jp",
+  korean: "kr",
+  hindi: "in",
+  bengali: "bd", // Bangladesh
+  russian: "ru",
+  portuguese: "pt",
+  arabic: "sa", // Saudi Arabia (alt: ae for UAE)
+  italian: "it",
+  turkish: "tr",
+  dutch: "nl",
+  polish: "pl",
+  ukrainian: "ua",
+  vietnamese: "vn",
+  thai: "th",
+  greek: "gr",
+  hebrew: "il",
+  urdu: "pk",
+  persian: "ir",
+  swahili: "ke", // Kenya (alt: tz for Tanzania)
+};
+
 export const THEMES = [
   {
     name: "light",
@@ -161,37 +217,3 @@ export const THEMES = [
     colors: ["#1e293b", "#f5734c", "#ec4899", "#ffffff"],
   },
 ];
-
-export const LANGUAGES = [
-  "English",
-  "Spanish",
-  "French",
-  "German",
-  "Mandarin",
-  "Japanese",
-  "Korean",
-  "Hindi",
-  "Russian",
-  "Portuguese",
-  "Arabic",
-  "Italian",
-  "Turkish",
-  "Dutch",
-];
-
-export const LANGUAGE_TO_FLAG = {
-  english: "gb",
-  spanish: "es",
-  french: "fr",
-  german: "de",
-  mandarin: "cn",
-  japanese: "jp",
-  korean: "kr",
-  hindi: "in",
-  russian: "ru",
-  portuguese: "pt",
-  arabic: "sa",
-  italian: "it",
-  turkish: "tr",
-  dutch: "nl",
-};
