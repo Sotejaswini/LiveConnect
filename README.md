@@ -68,7 +68,7 @@ npm run dev
 
 ---
 ## 📸 Screenshots (Optional)
-Add a few screenshots or GIFs of chat, video call, and themes here for a stronger impression.
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/main/Screenshots/signup.png?raw=true)
 --
 
 ## License
