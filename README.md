@@ -68,7 +68,7 @@ npm run dev
 
 ---
 ## 📸 Screenshots (Optional)
-![Screenshot](https://github.com/Sotejaswini/LiveConnect/main/Screenshots/signup.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/signup.png?raw=true)
 --
 
 ## License
