@@ -67,8 +67,19 @@ npm run dev
 ```
 
 ---
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 ![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/signup.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/login.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/onboarding.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/Home.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/themes.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/notification.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/friends.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/chat.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/message.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/call_link.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/reactions.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/LiveConnect/blob/main/Screenshots/call.png?raw=true)
 --
 
 ## License
