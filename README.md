@@ -50,6 +50,8 @@ Create a `.env` file:
 ```ini
 VITE_STREAM_API_KEY=your_stream_api_key
 ```
+
+---
 ## 🚀 Getting Started
 Run the Backend
 ```
@@ -63,9 +65,12 @@ cd frontend
 npm install
 npm run dev
 ```
-###📸 Screenshots (Optional)
+
+---
+##📸 Screenshots (Optional)
 Add a few screenshots or GIFs of chat, video call, and themes here for a stronger impression.
+--
 
+## License
 
-License
 This project is licensed under the MIT License.
