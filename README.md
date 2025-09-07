@@ -1,6 +1,6 @@
 # 💬 LiveConnect
 
-A full-stack **real-time chat and video calling application** built for seamless global communication.  
+A  **real-time chat and video calling application** built for seamless global communication.  
 Designed with scalability, security, and user experience in mind. 🌍✨  
 
 ---
