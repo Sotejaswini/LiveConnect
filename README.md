@@ -67,7 +67,7 @@ npm run dev
 ```
 
 ---
-##📸 Screenshots (Optional)
+## 📸 Screenshots (Optional)
 Add a few screenshots or GIFs of chat, video call, and themes here for a stronger impression.
 --
 
